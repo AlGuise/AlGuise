@@ -38,6 +38,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
