@@ -1,4 +1,4 @@
-# Hi there, I'm Alain - aka [Al Guise] 👋 
+# Hi there, I'm Alain 👋 
 
 ## I'm a Freelancer, Developer, and Soccer Enthusiast!!
 
