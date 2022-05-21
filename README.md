@@ -10,11 +10,13 @@
 ### Connect with me:
 
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/theAlGuise#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/theAlGuise#gh-dark-mode-only)
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
+
+[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
+
+[![twitter](./img/twitter-light.svg)](https://twitter.com/theAlGuise)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/alain-giessel#gh-dark-mode-only)
+(./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel)
 &nbsp;&nbsp;
 <!-- [![discord](./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel#gh-light-mode-only)
 [![discord](./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel#gh-light-mode-only) -->
