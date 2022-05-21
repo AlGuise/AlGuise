@@ -9,14 +9,9 @@
 
 ### Connect with me:
 
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
-
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
-
-[![twitter](./img/twitter-light.svg)](https://twitter.com/theAlGuise)
 &nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel)
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
 <!-- [![discord](./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel#gh-light-mode-only)
 [![discord](./img/linkedin-light.svg)](https://linkedin.com/in/alain-giessel#gh-light-mode-only) -->
