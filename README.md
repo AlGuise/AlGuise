@@ -2,9 +2,9 @@
 
 ## I'm a Freelancer, Developer, and Soccer Enthusiast!!
 
-- 🌱 I’m currently learning front and backend development
+- 🌱 I’m currently learning Java, Typescript and Jest
 - 👯 I’m looking to collaborate with other front-end web developers
-- 🥅 2022 Goals: Land my first SWE job!
+- 🥅 2023 Goals: Complete my AWS Assoc Dev Cert along with developing stronger Java and TDD skills!
 - ⚡ Fun fact: I love to run, box, and race triathlon
 
 ### Connect with me:
